@@ -85,4 +85,4 @@ This project uses Convolutional Neural Networks (CNNs) to classify images of pla
 ## 🧑‍💻 Author
 
 **Mansi Varshney**  
-Connect on [LinkedIn](https://www.linkedin.com/in/mansivarshney10)
+Connect on (https://www.linkedin.com/in/mansivarshney10)
